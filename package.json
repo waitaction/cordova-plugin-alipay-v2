@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hhjjj1010/cordova-plugin-alipay-v2.git"
+    "url": "git+https://github.com/waitaction/cordova-plugin-alipay-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/hhjjj1010/cordova-plugin-alipay-v2/issues"
+    "url": "https://github.com/waitaction/cordova-plugin-alipay-v2/issues"
   },
-  "homepage": "https://github.com/hhjjj1010/cordova-plugin-alipay-v2#readme",
+  "homepage": "https://github.com/waitaction/cordova-plugin-alipay-v2#readme",
   "author": "hhjjj1010",
   "license": "ISC"
 }
